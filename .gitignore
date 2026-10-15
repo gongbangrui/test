@@ -1,0 +1,52 @@
+# JetBrains / IDEA / CLion
+.idea/
+*.iml
+cmake-build-*/
+
+# Build directories and CMake-generated files
+build/
+build_*/
+build-*/
+Debug/
+Release/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+install_manifest.txt
+compile_commands.json
+CMakeUserPresets.json
+build.ninja
+.ninja_deps
+.ninja_log
+
+# Compiled firmware, object files and compiler reports
+*.o
+*.obj
+*.d
+*.elf
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.su
+*.gcda
+*.gcno
+
+# Keil-generated output (keep vendor-supplied .lib dependencies)
+Objects/
+Listings/
+*.uvguix.*
+*.uvoptx
+
+# Local tooling and editor state
+/.agents/
+/.codex/
+/.aws/
+/.env
+/.env.*
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

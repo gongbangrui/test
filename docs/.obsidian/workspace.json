@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "4e9bc4aa6da91442",
+    "type": "split",
+    "children": [
+      {
+        "id": "711e8e79dce7774f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c87de11e338a3d34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "manual.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "manual"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ccaf21c4294d466",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce250b2186b6bc12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42ea39563f523813",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "0940965bcfc5a7ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "989d9e3bf5548ee6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "048ca6bf2a733853",
+    "type": "split",
+    "children": [
+      {
+        "id": "8233ef35326b7322",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "591d385e62362827",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "technical_roadmap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "technical_roadmap 的反向链接列表"
+            }
+          },
+          {
+            "id": "662a95f4a24253b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "technical_roadmap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "technical_roadmap 的出链列表"
+            }
+          },
+          {
+            "id": "89d3f7e0f2aff3cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ffb2cbd7b7635717",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "b68bf8cc4fa547a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "technical_roadmap.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "technical_roadmap 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "c87de11e338a3d34",
+  "lastOpenFiles": [
+    "gray_sensor_manual.md",
+    "manual.md",
+    "06-warnings-logs.md",
+    "05-platform-bridge.md",
+    "04-routes.md",
+    "03-dead-reckoning.md",
+    "02-speed-pid.md",
+    "01-command-line.md",
+    "technical_roadmap.md",
+    "architecture.md",
+    "architecture.md.tmp.79438.6a40293f077f",
+    "led_error_codes.md",
+    "bmi088_accel_regression_analysis.md",
+    "hal_timebase_priority.md",
+    "technical_roadmap.pdf",
+    "led_error_codes.pdf",
+    "hal_timebase_priority.pdf",
+    "vim-im-control/manifest.json",
+    "vim-im-control/main.js",
+    "vim-im-control",
+    "technical_roadmap.md.tmp.63198.1778127229330",
+    "technical_roadmap.md.tmp.61726.1778124891943"
+  ]
+}
